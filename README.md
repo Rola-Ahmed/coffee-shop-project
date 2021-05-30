@@ -1,1 +1,1 @@
-# cafe-shop-project
+# coffee-shop-project
